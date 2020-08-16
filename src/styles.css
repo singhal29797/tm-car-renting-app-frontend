@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/* ========  Comman Style  =========== */
+body{
+    min-height: 100vh;
+}
+
+.containerX{
+    width: calc(100% - 30px);
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.pt-4r{
+    padding-top: 4rem;
+}
+/* ========  --------------  =========== */
+
+
+
+
+/* ========  Booking Module  =========== */
+
+/* ========  --------------  =========== */
+
+
+
+/* ========  Core Module  =========== */
+/* ========  --------------  =========== */
+
+
+/* ========  Home Module  =========== */
+/* ========  --------------  =========== */
+
+
+/* ========  Shared Module  =========== */
+/* ========  --------------  =========== */
+
+
+/* ========  User Module  =========== */
+/* ========  --------------  =========== */
